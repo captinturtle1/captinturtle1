@@ -2,6 +2,16 @@
 
 Hi, I'm Austin, a full-stack developer with a passion for creating dynamic and intuitive web applications. With several years of experience in both front-end and back-end development, I have the skills and knowledge necessary to take a project from concept to completion.
 
+## Projects:
+### [Minty](https://github.com/captinturtle1/minty-desktop)
+Minty is a powerful Ethereum wallet manager built with Electron, React, and TypeScript. It allows users to efficiently manage Ethereum wallets, perform various transactions, automate tasks, and analyze the profit/loss of NFT projects using stored wallets.
+
+### [IsAnyone.Live](https://github.com/captinturtle1/who-is-live)
+A web tool that allows you to keep track of streamers accross streaming platforms such as Twitch, Youtube, and Kick.
+
+### [otk.lol](https://github.com/captinturtle1/otk-website)
+A content dashboard that shows all of the current live streams and newest youtube videos for the content org OTK.
+
 ## Proficiencies
 
 ### Languages:
@@ -18,12 +28,15 @@ Hi, I'm Austin, a full-stack developer with a passion for creating dynamic and i
 
 ![AWS Badge](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP Badge](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+### Databases:
+
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLITE Badge](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ### Frameworks & Libraries:
 
@@ -48,7 +61,3 @@ Hi, I'm Austin, a full-stack developer with a passion for creating dynamic and i
 ![Affinity Designer Badge](https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## Personal Projects:
-* **[Minty](https://github.com/captinturtle1/minty-desktop) - Minty is a powerful Ethereum wallet manager that allows users to efficiently manage Ethereum wallets and automate tasks.**  
-* **[IsAnyone.Live](https://github.com/captinturtle1/who-is-live) - A web tool that allows you to keep track of streamers accross streaming platforms such as Twitch, Youtube, and Kick.**
-* **[otk.lol](https://github.com/captinturtle1/otk-website) - A content dashboard that shows all of the current live streams and newest youtube videos for the content org OTK.**
