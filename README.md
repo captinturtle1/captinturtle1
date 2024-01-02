@@ -7,7 +7,7 @@ Hi, I'm Austin, a full-stack developer with a passion for creating dynamic and i
 Minty is a powerful Ethereum wallet manager built with Electron, React, and TypeScript. It allows users to efficiently manage Ethereum wallets, perform various transactions, automate tasks, and analyze the profit/loss of NFT projects using stored wallets.
 
 ### [IsAnyone.Live](https://github.com/captinturtle1/who-is-live)
-A web tool that allows you to keep track of streamers accross streaming platforms such as Twitch, Youtube, and Kick.
+A web application allows users to track streamers from streaming platforms such as Kick, Youtube, and Twitch. It provides information such as their view count, thumbnail, stream title, game category, and importantly, whether or not they are currently live.
 
 ### [otk.lol](https://github.com/captinturtle1/otk-website)
 A content dashboard that shows all of the current live streams and newest youtube videos for the content org OTK.
