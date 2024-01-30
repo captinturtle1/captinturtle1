@@ -12,6 +12,9 @@ A web application allows users to track streamers from streaming platforms such 
 ### [otk.lol](https://github.com/captinturtle1/otk-website)
 A content dashboard that shows all of the current live streams and newest youtube videos for the content org OTK.
 
+### [Employee Management System](https://github.com/captinturtle1/employee-management-system)
+A web application providing a user-friendly interface to manage employees in a MySQL database. This system allows users to perform operations such as adding, deleting, and updating employee records, as well as the ability to generate reports.
+
 ## Proficiencies
 
 ### Languages:
