@@ -1,6 +1,6 @@
 # Hello! 👋
 
-Hi, I'm Austin, a full-stack developer with a passion for creating dynamic and intuitive web applications. With several years of experience in both front-end and back-end development, I have the skills and knowledge necessary to take a project from concept to completion.
+Hi, a full-stack developer with a passion for creating dynamic and intuitive web applications. With several years of experience in both front-end and back-end development, I have the skills and knowledge necessary to take a project from concept to completion.
 
 ## Projects:
 ### [Minty](https://github.com/captinturtle1/minty-desktop)
